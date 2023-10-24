@@ -21,6 +21,10 @@ hr{
 .card-img-top{
     height: 300px;
     width: 300px;
-    border-radius: 50%;
+    border-radius: 10%;
  
+}
+.card,text-center{
+    background-color: #e6e1e1;
+
 }
