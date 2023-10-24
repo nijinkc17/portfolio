@@ -1,0 +1,26 @@
+body {
+    background-color: #e6e1e1;
+    color: black;
+}
+img{
+
+    border-radius: 50%;
+    float: left;
+}
+hr{
+    width: 20%;
+    margin-top: 5rem;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 2rem;
+    border-top-color: rgb(108, 12, 12);
+    border-top-style: dotted;
+    border-top-width: .4rem;
+
+}
+.card-img-top{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+ 
+}
